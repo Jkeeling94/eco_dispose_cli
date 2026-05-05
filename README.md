@@ -8,7 +8,7 @@ EcoDispose CLI is a Python-based command-line application designed to guide user
 
 ## What is WEEE?
 
-WEEE stands for *Waste Electrical and Electronic Equipment*. These regulations ensure that electronic devices are disposed of safely and responsibly to reduce environmental impact and prevent harmful waste.
+WEEE stands for *Waste Electrical and Electronic Equipment*. These regulations ensure that electronic devices are disposed of safely and responsibly to reduce environmental impact and prevent environmental harm
 
 ---
 
