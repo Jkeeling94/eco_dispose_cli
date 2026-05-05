@@ -1,4 +1,4 @@
-! [Alt Text](Ecodisposelogo.png)
+! [EcoDisposeLogo](Ecodisposelogo.png)
 # eco_dispose_cli
 Python CLI tool for WEEE-compliant electronic waste disposal guidance
 # EcoDispose CLI
